@@ -4,7 +4,6 @@ import { motion } from "framer-motion";
 import Image from "next/image";
 import { useState } from "react";
 
-import signaturePNG from "@/public/images/signature.png"; // Update path
 
 // Particle component
 const Particle = ({ delay }: { delay: number }) => (
