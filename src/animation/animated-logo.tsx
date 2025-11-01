@@ -60,7 +60,7 @@ export default function AnimatedLogo() {
 
       {/* Signature Image */}
       <Image
-        src={signaturePNG}
+        src="/images/signature.png"
         alt="Er. Dipendra – handwritten signature"
         width={600}
         height={300}
