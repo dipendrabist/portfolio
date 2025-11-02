@@ -10,7 +10,7 @@ const Particle = ({ delay }: { delay: number }) => (
     className="absolute h-1 w-1 rounded-full"
     style={{
       background: "hsl(var(--accent))",
-      boxShadow: "0 0 8px hsl(var(--accent) / 0.8)",
+      boxShadow: "0 0  8px hsl(var(--accent) / 0.8)",
       left: "50%",
       top: "50%",
     }}
